@@ -1,1 +1,5 @@
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. I need to check if I can respond. Since the current date they provided is February 16, 2026, which is within my knowledge cutoff date of 2026. So I'm good. The user probably just wants to ensure the AI is active. The instruction is clear: reply with 'Yes'. I should avoid any extra text. Just a straightforward 'Yes' in a new line. Let me make sure there's no typo. Yep, that's it.
+</think>
+
 Yes
