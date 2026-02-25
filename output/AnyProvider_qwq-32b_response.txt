@@ -1,5 +1,0 @@
-<think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational. Let me check the current date they provided: February 24, 2026. Since my knowledge cutoff is 2026, that's within the limit. I need to respond with just "Yes" as instructed. No need for any extra information. Make sure the response is exactly "Yes" without any additional text. Alright, that's straightforward. Let me send that.
-</think>
-
-Yes
