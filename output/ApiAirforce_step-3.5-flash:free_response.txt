@@ -1,5 +1,7 @@
 <think>
-Okay, the user asked a simple yes/no question to check if I'm operational. They want confirmation that I can respond. The instruction is clear: reply with 'Yes' only if I can respond. Since I'm functioning
+Okay, the user asks a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond." The core need is to confirm functionality.  
+
+The instruction explicitly says to reply with
 </think>
 
 
