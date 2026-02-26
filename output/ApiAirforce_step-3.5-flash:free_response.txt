@@ -1,7 +1,7 @@
 <think>
-Okay, the user asks a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond." The core need is to confirm functionality.  
+Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. This is a straightforward check to confirm my operational status. 
 
-The instruction explicitly says to reply with
+I don't need to overcomplicate it—just acknowledge the question and confirm
 </think>
 
 
