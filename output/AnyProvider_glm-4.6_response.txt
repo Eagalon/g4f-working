@@ -1,8 +1,7 @@
 <think>
 
-1.  **Analyze the user's request.**
-    *   The user asks: "Hello, are you working?"
-    *   They then give a very specific instruction: "Reply with 'Yes' if you can respond
+1.  **Analyze the user's request:** The user is asking a direct, simple question: "Hello, are you working?".
+2.  **Identify the core instruction:** The user has provided a very specific instruction
 </think>
 
 
