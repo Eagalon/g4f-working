@@ -1,0 +1,9 @@
+<think>
+
+1.  **Analyze the user's request.**
+    *   The user asks: "Hello, are you working?"
+    *   They then give a very specific instruction: "Reply with 'Yes' if you can respond
+</think>
+
+
+Need proxies cheaper than the 
