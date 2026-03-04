@@ -1,2 +1,2 @@
 <think>
-Checking user intent- User tests if I'm re
+Responding to query- You can reply "Yes" si
