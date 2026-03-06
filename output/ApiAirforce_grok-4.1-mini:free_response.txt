@@ -1,2 +1,2 @@
 <think>
-Responding to query- You confirm responsive
+Checking user query- User tests if I'm ope

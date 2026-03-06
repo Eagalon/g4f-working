@@ -1,9 +1,7 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. This is a straightforward check to see if the system is active. 
-
-The user likely just wants confirmation that the assistant is operational.
+Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. Simple check - I'm fully operational and can generate responses. The query is straightforward, no hidden complexity. Just need to confirm availability with the exact
 </think>
 
 
 Need proxies cheaper than the market?
-ht
+h
