@@ -1,8 +1,8 @@
 <think>
 
 1.  **Analyze the User's Request:**
-    *   The user asks a direct question: "Hello, are you working?"
-    *   They then give a very specific instruction: "Reply with 'Yes' if
+    *   The user asks a very simple, direct question: "Hello, are you working?"
+    *   Then, they give a very specific, constrained instruction: "
 </think>
 
 

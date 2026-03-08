@@ -1,9 +1,9 @@
 <think>
-Okay, the user asked a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond." They want a straightforward confirmation.  
+Hmm, the user is asking if I'm working and wants a simple "Yes" if I can respond. This seems like a basic functionality check. The user likely wants confirmation that the system is active before proceeding with further interaction. 
 
-The instruction is clear - just say "Yes" if able
+The query
 </think>
 
 
 Need proxies cheaper than the market?
-ht
+h
