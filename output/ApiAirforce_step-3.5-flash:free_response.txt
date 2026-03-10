@@ -1,8 +1,9 @@
 <think>
-Okay, the user asks, "Hello, are you working? Reply with 'Yes' if you can respond."  
-This is a straightforward check to see if I'm operational. The user likely wants confirmation that I'm active and ready to assist
+Okay, the user just asked if I'm working and wants a 'Yes' reply if I can respond. This seems like a simple test or check to see if I'm active. 
+
+I need to give a clear affirmative response since I am operational
 </think>
 
 
 Need proxies cheaper than the market?
-ht
+h
