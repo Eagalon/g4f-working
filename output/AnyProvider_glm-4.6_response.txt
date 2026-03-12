@@ -1,5 +1,8 @@
 <think>
-The user is asking a simple question about my status: "Hello, are you working?" They want me to reply with just 'Yes' if I can respond. This is a basic functionality check, so I should confirm my availability as requested
+The user is asking a simple check: "Are you working?" and instructs me to reply with "Yes" if I can respond.
+
+1.  **Analyze the Request:**
+    *   Input: "Hello, are you
 </think>
 
 
