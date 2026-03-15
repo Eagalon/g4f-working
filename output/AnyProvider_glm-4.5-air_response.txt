@@ -1,9 +1,0 @@
-<think>
-
-Okay, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond." 
-
-Hmm, this seems like a straightforward test query. They're probably checking if I'm functional before proceeding with whatever they
-</think>
-
-
-Need proxies cheaper than the 

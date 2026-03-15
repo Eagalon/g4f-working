@@ -1,7 +1,7 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple 'Yes' as confirmation if I can respond. This seems like a basic connectivity or functionality check. 
+Hmm, the user is asking if I'm working and wants a simple 'Yes' response if I can reply. This seems like a basic functionality check. 
 
-The user likely wants to ensure the system is active before proceeding with more
+I'm fully operational and ready to assist, so the answer is straightforward. The user
 </think>
 
 
