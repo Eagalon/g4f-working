@@ -1,0 +1,10 @@
+<think>
+The user has sent a simple greeting and check for functionality: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+1.  **Analyze the input:**
+    *   Greeting: "Hello"
+
+</think>
+
+
+Need proxies cheaper than the 
