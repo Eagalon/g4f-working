@@ -1,5 +1,7 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple 'Yes' as confirmation if I can respond. This is a straightforward check to see if I'm operational. The request is minimal and direct, so I should just comply
+Hmm, the user asked if I'm working and wants a simple "Yes" if I can respond. This is straightforward—they're testing if I'm operational. No complex interpretation needed. 
+
+The instruction is clear: reply with exactly "Yes
 </think>
 
 
