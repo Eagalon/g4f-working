@@ -1,9 +1,8 @@
 <think>
-The user has sent a simple greeting and check for functionality: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user has just initiated a conversation and is asking if I can respond.
 
-1.  **Analyze the input:**
-    *   Greeting: "Hello"
-
+1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+2.  **Ident
 </think>
 
 

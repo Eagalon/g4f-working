@@ -1,9 +1,9 @@
 <think>
-Okay, the user just asked a simple yes/no question about whether I'm working. The instruction is clear: reply with 'Yes' if I can respond. 
+Okay, the user asked if I'm working and requested a 'Yes' reply if I can respond. This is a straightforward check to see if the system is active. 
 
-I can definitely respond right now, so the answer is straightforward. No need to over
+I should confirm that I'm operational without adding extra details since
 </think>
 
 
 Need proxies cheaper than the market?
-http
+ht
