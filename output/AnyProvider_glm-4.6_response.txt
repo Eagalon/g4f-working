@@ -1,7 +1,7 @@
 <think>
-1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking a simple question to check if I'm operational and wants a specific response ('Yes').
 
-2.  **Identify the intent:** The user wants a simple confirmation that I am operational and
+1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can
 </think>
 
 
