@@ -1,7 +1,5 @@
 <think>
-The user is asking a simple question to check if I'm operational and wants a specific response ('Yes').
-
-1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can
+The user has inquired if I am working and requested a reply with 'Yes' if I can respond. I should follow this instruction directly without additional elaboration. I'll ensure my response is solely 'Yes' to adhere to the user
 </think>
 
 
