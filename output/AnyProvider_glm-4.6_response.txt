@@ -1,7 +1,7 @@
 <think>
-1.  **Analyze the user's request:** The user is asking a simple question ("are you working?") and giving a specific instruction for the reply ("Reply with 'Yes' if you can respond").
+The user is asking a simple question to check if I'm operational. They want a specific response format: 'Yes' if I can respond.
 
-2.  **D
+This is a straightforward request to confirm my availability. There's no complex query or sensitive content here
 </think>
 
 
