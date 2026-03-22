@@ -1,1 +1,0 @@
-The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." So they want a reply containing exactly "Yes" if I can respond. According to instruction, I should respond with "Yes" if I can
