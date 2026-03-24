@@ -1,0 +1,3 @@
+We are going to parse the problem and find what the user is asking. The user has said: 
+  "Hello, are you working? Reply with 'Yes' if you can respond."
+ This is a command to the AI: if the

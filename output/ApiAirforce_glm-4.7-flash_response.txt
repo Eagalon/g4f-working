@@ -1,7 +1,6 @@
 <think>
-1.  **Analyze the user's request:** The user is asking a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-2.  **Identify the core task:** I need
+1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+2.  **Identify the intent:** The user wants to check if I am functional and ready to answer
 </think>
 
 

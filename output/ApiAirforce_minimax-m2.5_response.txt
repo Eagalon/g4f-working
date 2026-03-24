@@ -1,11 +1,6 @@
 <think>
-Thinking Process:
-
-1.  **Analyze the Request:**
-    *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
-    *   Constraint: Reply with 'Yes' if I can
+The user is asking if I can respond. I should respond with "Yes" as they requested.
 </think>
+Yes
 
-
-Need proxies cheaper than the market?
-htt
+Need proxies cheaper than the market
