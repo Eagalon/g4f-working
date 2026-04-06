@@ -1,9 +1,9 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple 'Yes' as confirmation. The instruction is very clear and direct. 
+First, the user asked: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-I can respond immediately since I'm operational. The user likely just wants to verify functionality
+The instruction is clear: I need to reply with 'Yes' if I can respond. Since I am an AI assistant designed
 </think>
 
 
 Need proxies cheaper than the market?
-h
+htt
