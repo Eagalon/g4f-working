@@ -1,9 +1,7 @@
 <think>
-First, the user asked: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-The instruction is clear: I need to reply with 'Yes' if I can respond. Since I am an AI assistant designed
+Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. Let me check my current status. I'm an AI assistant designed to help with queries, so I'm operational. The user specifically
 </think>
 
 
 Need proxies cheaper than the market?
-htt
+ht
