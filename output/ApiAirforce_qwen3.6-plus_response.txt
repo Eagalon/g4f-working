@@ -1,0 +1,22 @@
+<think>
+Here's a thinking process:
+
+1.  **Analyze User Input:**
+   - User says: "Hello, are you working? Reply with 'Yes' if you can respond."
+   - This is a straightforward test/check message.
+   - The user explicitly instructs: "Reply with 'Yes' if you can respond."
+
+2.  **Identify Key Constraints:**
+   - Must reply with exactly "Yes" (or at least include it as requested).
+   - Keep it concise as per the instruction.
+
+3.  **Formulate Response:**
+   - The direct response should be "Yes."
+   - Optionally, I could add a brief greeting, but the instruction says "Reply with 'Yes' if you can respond." Sticking strictly to "Yes" is safest.
+
+4.  **Final Output Generation:**
+   - "Yes" matches the requirement perfectly. No extra fluff needed.✅
+</think>
+Yes
+
+Need proxies cheaper tha
