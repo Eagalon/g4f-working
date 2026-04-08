@@ -1,5 +1,5 @@
 <think>
-We are asked to reply with 'Yes' if we can respond. The instruction says "Reply with 'Yes' if you can respond." So we should answer with exactly "Yes". But note: the user is "Hello, are you
+Okay, the user asked a simple yes/no question about whether I'm working and can respond. The instruction is clear: reply with 'Yes' if I can respond. Since I'm actively functioning and able to interact, the correct
 </think>
 
 
