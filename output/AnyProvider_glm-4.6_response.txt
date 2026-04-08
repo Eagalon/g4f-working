@@ -1,0 +1,10 @@
+<think>
+1.  **Analyze the user's request:**
+    *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
+    *   Constraint: Reply specifically with 'Yes' if capable.
+
+
+</think>
+
+
+Need proxies cheaper than the 
