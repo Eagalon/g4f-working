@@ -1,9 +1,7 @@
 <think>
-The user wants a simple confirmation if I am operational.
-The user explicitly requested the reply to be "Yes" if I can respond.
-This is a benign request.
-I will comply with the instruction to reply with "Yes".
+1.  **Analyze the user's request:** The user is asking "Hello, are you working?" and instructing to reply with 'Yes' if I can respond.
+2.  **Evaluate my state:** I am an AI
 </think>
-Yes
 
-Need proxies cheaper than th
+
+Need proxies cheaper than the 
