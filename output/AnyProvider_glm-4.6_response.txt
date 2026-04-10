@@ -1,0 +1,8 @@
+<think>
+The user is asking a simple status check ("are you working?") and providing a specific instruction for the reply format ("Reply with 'Yes' if you can respond").
+
+1.  **Analyze the User's Intent:** The user wants
+</think>
+
+
+Need proxies cheaper than the 

@@ -1,7 +1,9 @@
-⚠️ **IMPORTANT NOTICE** ⚠️
+<think>
+The user is asking a simple availability check: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The Pollinations legacy text API is being deprecated for **authenticated users**.
+My instructions are to be helpful and harmless.
+This is a benign request. It's a standard "ping" to
+</think>
 
-Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
 
-Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
+Need proxies cheaper than the market?
