@@ -1,9 +1,0 @@
-<think>
-The user has asked a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
-This is a standard interaction check.
-My instructions are generally to be helpful and follow the user's constraints.
-The user
-</think>
-
-
-Need proxies cheaper than the 
