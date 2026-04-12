@@ -1,8 +1,0 @@
-<think>
-1.  **Analyze the User's Input:** The user is asking a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-2.  **Determine the Intent:** The
-</think>
-
-
-Need proxies cheaper than the 

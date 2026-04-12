@@ -1,7 +1,8 @@
-⚠️ **IMPORTANT NOTICE** ⚠️
+<think>
+1.  **Analyze the User's Input:**
+    *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
+    *   Intent: The user is performing a simple connectivity or functionality check (
+</think>
 
-The Pollinations legacy text API is being deprecated for **authenticated users**.
 
-Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
-
-Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
+Need proxies cheaper than the market?
