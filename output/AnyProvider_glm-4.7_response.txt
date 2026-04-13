@@ -1,8 +1,0 @@
-<think>
-1.  **Analyze the User's Input:**
-    *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
-    *   Intent: The user is performing a simple connectivity or functionality check (
-</think>
-
-
-Need proxies cheaper than the market?

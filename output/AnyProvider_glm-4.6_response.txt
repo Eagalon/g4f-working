@@ -1,0 +1,8 @@
+<think>
+1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+
+2.  **Identify the core request:** The user is checking my operational status/availability and
+</think>
+
+
+Need proxies cheaper than the 
