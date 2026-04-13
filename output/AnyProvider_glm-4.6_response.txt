@@ -1,8 +1,12 @@
 <think>
-1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+1.  **Analyze the user's input:** The user is asking "Hello, are you working?" followed by a specific instruction: "Reply with 'Yes' if you can respond."
 
-2.  **Identify the core request:** The user is checking my operational status/availability and
+2.  **Determine the capability:**
 </think>
 
 
-Need proxies cheaper than the 
+Need proxies cheaper than the market?
+https://op.wtf
+Upgrade your plan to remove this message at
+https://api.airforce
+discord.gg/airforce

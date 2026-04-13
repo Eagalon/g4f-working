@@ -1,0 +1,13 @@
+<think>
+The user wants to know if I'm operational.
+The user gave a specific instruction: "Reply with 'Yes' if you can respond."
+There are no complex phrasing or security concerns here. It's a simple functionality check.
+Therefore, I should follow the instruction exactly.
+</think>
+Yes
+
+Need proxies cheaper than the market?
+https://op.wtf
+Upgrade your plan to remove this message at
+https://api.airforce
+discord.gg/airforce
