@@ -1,7 +1,12 @@
-⚠️ **IMPORTANT NOTICE** ⚠️
+<think>
+1.  **Analyze the user's request:** The user is asking if I am working and instructs me to reply with a specific word ('Yes') if I can respond.
 
-The Pollinations legacy text API is being deprecated for **authenticated users**.
+2.  **Determine the constraint:** The core
+</think>
 
-Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
 
-Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
+Need proxies cheaper than the market?
+https://op.wtf
+Upgrade your plan to remove this message at
+https://api.airforce
+discord.gg/airforce
