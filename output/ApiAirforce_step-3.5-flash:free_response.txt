@@ -1,7 +1,7 @@
 <think>
-Hmm, the user is asking if I'm working and wants a "Yes" reply if I can respond. This seems like a simple test or confirmation check. The user likely wants to verify that I'm active and ready to assist. 
+Hmm, the user is asking a simple confirmation question with a clear instruction to reply only with "Yes" if operational. The query is straightforward—no hidden complexity or emotional tone. 
 
-The
+Since I'm fully functional and can respond, the literal instruction
 
 Need proxies cheaper than the market?
 https://op.wtf
