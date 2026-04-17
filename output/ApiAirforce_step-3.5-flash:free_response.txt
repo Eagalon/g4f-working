@@ -1,7 +1,7 @@
 <think>
-Hmm, the user is asking a simple yes/no question about whether I'm working and can respond. This seems like a basic test or greeting. 
+Hmm, the user is asking if I'm working and wants a simple "Yes" if I can respond. This is a straightforward check to see if I'm operational. 
 
-I should confirm my operational status clearly and concisely. The user specifically requested a "Yes
+The user's message is clear and direct, so I should match that
 
 Need proxies cheaper than the market?
 https://op.wtf

@@ -1,5 +1,5 @@
 <think>
-Thinking about your requestChecking user query- You asked if I'm working and to reply "Yes" if I can respond.
+Thinking about your requestResponding to query- You confirm I'm operational with a simple "Yes".
 
 </think>
 Yes
