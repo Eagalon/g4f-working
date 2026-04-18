@@ -1,5 +1,7 @@
 <think>
-Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. Let me check if I'm functioning properly. I can definitely generate responses, so the answer is yes. The user seems to want a simple confirmation
+Okay, the user asked a simple yes-or-no question about whether I'm working and can respond. They specifically requested a 'Yes' reply if possible. 
+
+This is straightforward - I'm fully operational and can respond. No need to overcomplicate
 
 Need proxies cheaper than the market?
 https://op.wtf
