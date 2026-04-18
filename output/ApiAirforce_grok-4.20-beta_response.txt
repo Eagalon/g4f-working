@@ -1,3 +1,7 @@
+<think>
+Thinking about your requestChecking user intent- User tests if I'm responsive with a simple yes/no question.
+
+</think>
 Yes
 
 Need proxies cheaper than the market?

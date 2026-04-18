@@ -1,7 +1,5 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple "Yes" if I can respond. This is a straightforward check to see if I'm operational. 
-
-The user's message is clear and direct, so I should match that
+Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. Let me check if I'm functioning properly. I can definitely generate responses, so the answer is yes. The user seems to want a simple confirmation
 
 Need proxies cheaper than the market?
 https://op.wtf
