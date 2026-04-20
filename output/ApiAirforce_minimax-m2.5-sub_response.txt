@@ -1,2 +1,0 @@
-Not enough requests remaining. This model requires 3 requests but you only have 0 left this minute.
-Please wait or upgrade your plan: https://discord.gg/airforce

@@ -1,5 +1,5 @@
 <think>
-Thinking about your requestChecking responsiveness- You asked if I'm working, and I confirm I'm responsive with a simple "Yes".
+Thinking about your requestChecking user query- User tests if I'm responsive with a simple yes/no question.
 
 </think>
 Yes
