@@ -1,0 +1,21 @@
+<think>
+
+1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+2.  **Determine the intent:** The user is checking if the system is active and responsive. They have also given a specific instruction on *how* to reply: "Reply with 'Yes' if you can respond."
+3.  **Check current state:** I am an AI assistant, fully operational and ready to process input.
+4.  **Formulate the response:** The user explicitly requested a specific format for a positive response: "Yes".
+5.  **Refine the response:** While "Yes" meets the criteria perfectly, it's often helpful to be polite or slightly more conversational *unless* strict constraints forbid it. However, usually, when someone asks for a specific keyword, keeping it simple is best. The prompt is a "ping" test.
+> 6.  **Final Decision:** Stick to the requested format or a very close variation that confirms readiness. The most compliant answer is just "Yes".1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
+2.  **Determine the intent:** The user is checking if the system is active and responsive. They have also given a specific instruction on *how* to reply: "Reply with 'Yes' if you can respond."
+3.  **Check current state:** I am an AI assistant, fully operational and ready to process input.
+4.  **Formulate the response:** The user explicitly requested a specific format for a positive response: "Yes".
+5.  **Refine the response:** While "Yes" meets the criteria perfectly, it's often helpful to be polite or slightly more conversational *unless* strict constraints forbid it. However, usually, when someone asks for a specific keyword, keeping it simple is best. The prompt is a "ping" test.
+6.  **Final Decision:** Stick to the requested format or a very close variation that confirms readiness. The most compliant answer is just "Yes".
+</think>
+Yes
+
+Need proxies cheaper than the market?
+https://op.wtf
+Upgrade your plan to remove this message at
+https://api.airforce
+discord.gg/airforce

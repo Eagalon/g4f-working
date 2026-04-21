@@ -1,5 +1,6 @@
 <think>
-The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." So we just need to respond with "Yes". No additional content.
+Thinking about your requestChecking user intent- User tests if I'm responsive with a simple yes/no query.
+
 </think>
 Yes
 
