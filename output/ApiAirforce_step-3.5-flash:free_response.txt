@@ -1,7 +1,9 @@
 <think>
-Hmm, the user is checking if I'm operational with a simple yes/no question. The phrasing is very straightforward - just asking for a binary response to confirm functionality. 
+Hmm, the user is testing if I'm operational with a simple yes/no question. They want a binary confirmation of my functionality. 
 
-I recall my system status is fully operational, so a clear affirmative is appropriate
+The query is straightforward - no hidden complexity or context needed. Just need to acknowledge I'm responsive. 
+
+Since
 
 Need proxies cheaper than the market?
 https://op.wtf
