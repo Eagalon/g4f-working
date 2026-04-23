@@ -1,9 +1,7 @@
 <think>
-Hmm, the user is testing if I'm operational with a simple yes/no question. They want a binary confirmation of my functionality. 
+First, the user said: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The query is straightforward - no hidden complexity or context needed. Just need to acknowledge I'm responsive. 
-
-Since
+I need to check if I can respond. As an AI, I'm designed to respond to queries, so yes, I can respond
 
 Need proxies cheaper than the market?
 https://op.wtf
