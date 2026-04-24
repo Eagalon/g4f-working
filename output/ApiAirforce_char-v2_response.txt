@@ -1,8 +1,4 @@
-<think>
-Thinking about your requestResponding to query- You confirm I'm operational by replying "Yes".
-
-</think>
-Yes
+Yes. What's up? Something I can help you with today? 
 
 Need proxies cheaper than the market?
 https://op.wtf
