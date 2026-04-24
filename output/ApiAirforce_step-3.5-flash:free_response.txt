@@ -1,7 +1,7 @@
 <think>
-First, the user said: "Hello, are you working? Reply with 'Yes' if you can respond."
+Okay, the user is asking if I'm working and wants a simple 'Yes' if I can respond. This is a straightforward check to see if I'm operational. 
 
-I need to check if I can respond. As an AI, I'm designed to respond to queries, so yes, I can respond
+I should confirm I'm functional without extra details since they specifically asked for a
 
 Need proxies cheaper than the market?
 https://op.wtf
