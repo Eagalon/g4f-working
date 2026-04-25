@@ -1,5 +1,5 @@
 <think>
-Okay, the user just asked if I'm working and wants a "Yes" reply if I can respond. Let me check my current state. I'm definitely operational and ready to assist. The user's query is straightforward—they just need confirmation of
+Okay, the user is asking if I'm working and wants a 'Yes' response if I can reply. That's straightforward. I need to confirm that I'm operational. The user specified the exact reply format, so I should follow it precisely.
 
 Need proxies cheaper than the market?
 https://op.wtf
