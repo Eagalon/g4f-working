@@ -1,7 +1,7 @@
 <think>
-Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. This is a simple check to see if I'm active. 
+First, the user says: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-I need to confirm I'm operational and can reply. The instruction is clear—
+I need to respond based on this instruction. The user explicitly says to reply with 'Yes' if I can respond. Since I am
 
 Need proxies cheaper than the market?
 https://op.wtf
