@@ -1,5 +1,7 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' response if I can reply. That's straightforward. I need to confirm that I'm operational. The user specified the exact reply format, so I should follow it precisely.
+Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. This is a simple check to see if I'm active. 
+
+I need to confirm I'm operational and can reply. The instruction is clear—
 
 Need proxies cheaper than the market?
 https://op.wtf
