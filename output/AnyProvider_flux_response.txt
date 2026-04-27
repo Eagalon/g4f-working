@@ -1,1 +1,7 @@
-[![Hello, are you working? Reply with 'Yes' if you can respond.](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/cf9c5d95b067d97ae6160cbcc2dbc0dfc571c8a8844d12fdff26a99e621d483c/image.webp)](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/cf9c5d95b067d97ae6160cbcc2dbc0dfc571c8a8844d12fdff26a99e621d483c/image.webp)
+⚠️ **IMPORTANT NOTICE** ⚠️
+
+The Pollinations legacy text API is being deprecated for **authenticated users**.
+
+Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
+
+Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
