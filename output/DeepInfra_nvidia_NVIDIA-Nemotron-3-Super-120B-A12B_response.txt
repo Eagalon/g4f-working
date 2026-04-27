@@ -1,3 +1,0 @@
-We are to reply with 'Yes' if we can respond.
- Since the system is operational and I am here to help, I will reply with 'Yes'.
- However, note that the user's instruction is to reply with exactly 'Yes' (or
