@@ -1,7 +1,7 @@
 <think>
-Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. The query is straightforward—they’re checking if the system is active. 
+Hmm, the user is asking a very simple yes/no question to check if I'm operational. The request is clear and direct - they want confirmation of my availability with a specific format. 
 
-I should confirm availability clearly. The user specified the exact response format
+I can respond immediately since I'm fully functional. The
 
 Need proxies cheaper than the market?
 https://op.wtf
