@@ -1,5 +1,5 @@
 <think>
-Okay, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want a clear confirmation that I'm operational and can reply. The instruction specifically says to reply with '
+Okay, the user asked if I'm working and requested a 'Yes' reply if I can respond. Let me confirm my current status. I'm functioning normally, so I can indeed respond. The user just wants a simple confirmation, no extra details
 
 Need proxies cheaper than the market?
 https://op.wtf
