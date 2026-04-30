@@ -1,7 +1,5 @@
 <think>
-Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. This is a simple check to see if the system is active. 
-
-I need to confirm availability clearly and concisely. A straightforward 'Yes
+Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. Let me check my status. I'm an AI assistant, always active and ready to help. The user's query is straightforward—they just want
 
 Need proxies cheaper than the market?
 https://op.wtf
