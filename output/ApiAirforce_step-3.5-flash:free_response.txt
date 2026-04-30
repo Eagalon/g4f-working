@@ -1,5 +1,7 @@
 <think>
-Okay, the user asked if I'm working and requested a 'Yes' reply if I can respond. Let me confirm my current status. I'm functioning normally, so I can indeed respond. The user just wants a simple confirmation, no extra details
+Okay, the user asked if I'm working and wants a 'Yes' reply if I can respond. This is a simple check to see if the system is active. 
+
+I need to confirm availability clearly and concisely. A straightforward 'Yes
 
 Need proxies cheaper than the market?
 https://op.wtf
