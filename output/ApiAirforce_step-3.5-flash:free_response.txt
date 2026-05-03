@@ -1,7 +1,7 @@
 <think>
-Okay, the user asked a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond."
+Hmm, the user is asking if I'm working and wants a simple 'Yes' confirmation if I can respond. This is straightforward—they're likely testing responsiveness or just being polite. 
 
-They want a straightforward confirmation of my operational status. The instruction is clear—just reply "Yes" if I
+Since I'm fully operational, I can immediately confirm with
 
 Need proxies cheaper than the market?
 https://op.wtf
